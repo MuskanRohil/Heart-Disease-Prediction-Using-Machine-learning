@@ -21,6 +21,8 @@ We used three datasets in this project:
 2. Dataset 2 (Lifestyle Parameters): https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
 3. Dataset 3 (Combination of both Lifestyle and Clinical parameters): https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset
 
-Accuracy achieved for dataset 1:96% (Random Forest Classifier)
-Accuracy achieved for dataset 2:89% (Logistic Regression)
+Accuracy achieved for dataset 1: 96% (Random Forest Classifier)
+
+Accuracy achieved for dataset 2: 89% (Logistic Regression)
+
 Accuracy achieved for dataset 3: 63% (XGBoost)
